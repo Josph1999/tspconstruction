@@ -1,0 +1,191 @@
+{
+  "brand": {
+    "name": "TSPconstruction",
+    "tagline": "Renovating homes since 2004"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "projects": "Projects",
+    "about": "About",
+    "contact": "Contact",
+    "getQuote": "Get a quote"
+  },
+  "hero": {
+    "eyebrow": "Renovation · Remodeling · Finishing",
+    "titleLine1": "Your home,",
+    "titleLine2": "renovated right.",
+    "subtitle": "From a single bathroom refresh to a full apartment remont, TSPconstruction delivers craftsman-quality renovation work — on time, on budget, and with the mess managed.",
+    "ctaPrimary": "Get a free quote",
+    "ctaSecondary": "See our work",
+    "trustBadge": "20 years of craftsmanship · 500+ homes transformed"
+  },
+  "stats": {
+    "projects": "Completed renovations",
+    "clients": "Happy homeowners",
+    "experience": "Years renovating",
+    "team": "Craftsmen on the team"
+  },
+  "services": {
+    "eyebrow": "What we do",
+    "title": "Renovation services, end to end.",
+    "subtitle": "From a one-room refresh to a full-apartment remont, our team handles design, demolition, trades, and finishing under one roof.",
+    "items": {
+      "apartment": {
+        "title": "Apartment remont",
+        "description": "Full-apartment renovations from layout planning to final finishes — managed by one team and delivered on schedule."
+      },
+      "kitchen": {
+        "title": "Kitchen renovations",
+        "description": "Custom cabinets, stone countertops, plumbing and lighting — kitchens designed for the way you actually cook."
+      },
+      "bathroom": {
+        "title": "Bathroom remodels",
+        "description": "Showers, soaker tubs, heated floors, vanities — spa-style bathrooms built to last and waterproof to the studs."
+      },
+      "painting": {
+        "title": "Painting & finishing",
+        "description": "Plaster, primer, premium paints, wallpaper and decorative finishes — surfaces that look right under any light."
+      },
+      "utilities": {
+        "title": "Electrical & plumbing",
+        "description": "Licensed electricians and plumbers — full rewiring, new circuits, repiping and modern fixtures done by code."
+      },
+      "design": {
+        "title": "Design consultation",
+        "description": "Sit down with our designer to plan layouts, materials and finishes — before the first wall comes down."
+      }
+    }
+  },
+  "projects": {
+    "eyebrow": "Recent work",
+    "title": "Renovations we are proud of.",
+    "subtitle": "A look at the homes we have taken from tired to transformed in the last twelve months.",
+    "viewAll": "View all renovations",
+    "items": {
+      "vakeApartment": {
+        "title": "Vake Apartment Remont",
+        "category": "Apartment · Tbilisi",
+        "summary": "A full-apartment renovation in the heart of Vake — modern, warm, and family-ready.",
+        "description1": "We took a tired Soviet-era 95 m² apartment in Vake and rebuilt it for a young family — opening up the kitchen-living area, replacing every utility line, and finishing in warm oak, white plaster, and brushed brass.",
+        "description2": "All work was completed in eleven weeks while the family lived elsewhere. Final cleaning included — they walked into a fully furnished, ready-to-live home."
+      },
+      "loftKitchen": {
+        "title": "Loft Kitchen Renovation",
+        "category": "Kitchen · Saburtalo",
+        "summary": "An open-plan loft kitchen with custom oak cabinetry and a 4-meter island.",
+        "description1": "The owners wanted a kitchen that could host twelve people for dinner without feeling cramped. We pulled down a non-load-bearing wall, ran a 4-meter island down the new center line, and built every cabinet to a millimeter.",
+        "description2": "Stone countertops, soft-close drawers, integrated lighting, and a vented hood that actually vents — not the wall-decoration kind. Delivered in seven weeks."
+      },
+      "spaBathroom": {
+        "title": "Spa-Style Bathroom Makeover",
+        "category": "Bathroom · Vera",
+        "summary": "A 14 m² bathroom turned into a private spa — heated stone, walk-in rain shower, freestanding tub.",
+        "description1": "The brief: a bathroom that feels like checking into a five-star hotel. We stripped the room down to the studs, waterproofed every surface, ran new plumbing, and laid heated stone tile from wall to wall.",
+        "description2": "A walk-in rain shower, a freestanding soaker tub, custom oak vanity, and warm-LED mirror lighting. Delivered in five weeks with zero call-backs."
+      },
+      "familyHouse": {
+        "title": "Family House Renovation",
+        "category": "House · Dighomi",
+        "summary": "A two-story 220 m² family house being renovated room by room — kitchen and main floor done.",
+        "description1": "A young family bought a 1990s two-story house in Dighomi and asked us to bring it into 2025. We started with full rewiring and a new HVAC system, then moved on to the kitchen and main floor.",
+        "description2": "Phase 2 — bedrooms, bathrooms, and the garden room — is currently underway. The family stays in the house throughout, which means clean dust barriers and predictable working hours."
+      }
+    }
+  },
+  "projectsPage": {
+    "eyebrow": "Our portfolio",
+    "title": "Every renovation, on the record.",
+    "subtitle": "From single-room refreshes to whole-house remont — explore the renovation work TSPconstruction has delivered across Tbilisi over the past two decades.",
+    "viewProject": "View project",
+    "filters": {
+      "all": "All work",
+      "apartment": "Apartments",
+      "kitchen": "Kitchens",
+      "bathroom": "Bathrooms",
+      "house": "Houses",
+      "commercial": "Commercial"
+    },
+    "meta": {
+      "client": "Client",
+      "location": "Location",
+      "year": "Year",
+      "area": "Area",
+      "status": "Status",
+      "category": "Category"
+    },
+    "status": {
+      "completed": "Completed",
+      "ongoing": "Ongoing"
+    },
+    "detail": {
+      "back": "Back to projects",
+      "overview": "Project overview",
+      "highlights": "Project highlights",
+      "gallery": "Gallery",
+      "relatedTitle": "More from our portfolio",
+      "relatedSubtitle": "Other renovations you might like.",
+      "ctaTitle": "Inspired? Let's renovate yours next.",
+      "ctaSubtitle": "Tell us about your space and our team will visit for a free measurement and quote within a week.",
+      "ctaButton": "Start your renovation"
+    }
+  },
+  "about": {
+    "eyebrow": "Why TSPconstruction",
+    "title": "Renovation that respects your home — and your time.",
+    "paragraph1": "For two decades, families across Tbilisi have trusted TSPconstruction to take on the renovations they couldn't face themselves. Apartments, kitchens, bathrooms, full houses — managed start to finish by one team.",
+    "paragraph2": "We give you a fixed quote, a calendar, a single point of contact, and an end-of-day clean every working day. No subcontractor surprises, no missing tradesmen on Monday morning.",
+    "points": {
+      "quality": "Premium materials, no shortcuts",
+      "ontime": "Fixed price, fixed timeline",
+      "safety": "Clean site, clean handover",
+      "transparent": "One team, one point of contact"
+    },
+    "cta": "Meet the team",
+    "badge": {
+      "value": "500+",
+      "label": "Homes renovated"
+    }
+  },
+  "contact": {
+    "eyebrow": "Get your remont started",
+    "title": "Have a renovation in mind?",
+    "subtitle": "Tell us what you're hoping to renovate and we'll come out for a free measurement and quote within a week.",
+    "form": {
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "What do you want to renovate?",
+      "submit": "Request quote"
+    },
+    "info": {
+      "address": "Takaishvili street, Tbilisi, Georgia",
+      "phone": "+995 591 97 01 05",
+      "email": "hello@tspconstruction.ge"
+    }
+  },
+  "footer": {
+    "tagline": "Renovating Tbilisi homes one room at a time.",
+    "company": "Company",
+    "services": "Services",
+    "contact": "Contact",
+    "rights": "All rights reserved.",
+    "language": "Language"
+  },
+  "language": {
+    "en": "English",
+    "ka": "ქართული",
+    "switchTo": "Switch language"
+  },
+  "seo": {
+    "siteName": "TSPconstruction",
+    "siteDescription": "Renovation experts in Tbilisi — apartments, kitchens, bathrooms, full houses. Fixed price, fixed timeline, clean handover.",
+    "homeTitle": "Renovating Tbilisi homes since 2004",
+    "homeDescription": "From a single bathroom refresh to a full apartment remont, TSPconstruction delivers craftsman-quality renovation work in Tbilisi — on time, on budget, with the mess managed.",
+    "homeKeywords": "renovation Tbilisi, remont, apartment renovation, kitchen renovation, bathroom renovation, home renovation, full apartment remont, renovation contractor Tbilisi, Georgia renovation, TSPconstruction",
+    "projectsTitle": "Renovation projects",
+    "projectsDescription": "From single-room refreshes to whole-house remont — explore the renovation work TSPconstruction has delivered across Tbilisi over the past two decades.",
+    "projectsKeywords": "renovation projects Tbilisi, completed renovations, apartment renovation portfolio, kitchen renovation, bathroom renovation, house renovation, before and after renovation",
+    "projectKeywordsBase": "renovation, remont, Tbilisi, home renovation, TSPconstruction"
+  }
+}
